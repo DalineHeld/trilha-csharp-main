@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "trilha-csharp-main/1.0.0": {
+        "runtime": {
+          "trilha-csharp-main.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trilha-csharp-main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

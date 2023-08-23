@@ -1,0 +1,15 @@
+/home/dali/Programacao/trilha-csharp-main/bin/Debug/net7.0/trilha-csharp-main
+/home/dali/Programacao/trilha-csharp-main/bin/Debug/net7.0/trilha-csharp-main.deps.json
+/home/dali/Programacao/trilha-csharp-main/bin/Debug/net7.0/trilha-csharp-main.runtimeconfig.json
+/home/dali/Programacao/trilha-csharp-main/bin/Debug/net7.0/trilha-csharp-main.dll
+/home/dali/Programacao/trilha-csharp-main/bin/Debug/net7.0/trilha-csharp-main.pdb
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.csproj.AssemblyReference.cache
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.GeneratedMSBuildEditorConfig.editorconfig
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.AssemblyInfoInputs.cache
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.AssemblyInfo.cs
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.csproj.CoreCompileInputs.cache
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.dll
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/refint/trilha-csharp-main.dll
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.pdb
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/trilha-csharp-main.genruntimeconfig.cache
+/home/dali/Programacao/trilha-csharp-main/obj/Debug/net7.0/ref/trilha-csharp-main.dll

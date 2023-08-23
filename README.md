@@ -1,3 +1,0 @@
-# trilha-csharp
-
-Testando git
